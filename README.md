@@ -1,3 +1,4 @@
+<img width="1001" height="429" alt="Screenshot 2026-07-04 230950" src="https://github.com/user-attachments/assets/d7df40e4-afb6-4a6b-bec4-a83ad387ffdc" />
 <div align="center">
 
 #  Maivina Cleaner
