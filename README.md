@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦊 Maivina Cleaner & Dynamic Launcher
+#  Maivina Cleaner
 
 *A portable, automated Windows maintenance utility paired with a dynamic shortcut launcher.*
 
