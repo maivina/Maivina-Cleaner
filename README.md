@@ -144,7 +144,7 @@ Maivina-Cleaner/
 
 ### 1️⃣ Download
 
-Download the latest **Cleaner.7z** package from the **Releases** page.
+Download the latest **Cleaner.7z** release from the **Releases** page or clone this repository.
 
 ---
 
