@@ -1,6 +1,3 @@
-<img width="1001" height="429" alt="Screenshot 2026-07-04 230950" src="https://github.com/user-attachments/assets/d7df40e4-afb6-4a6b-bec4-a83ad387ffdc" />
-<div align="center">
-
 #  Maivina Cleaner
 
 *A portable, automated Windows maintenance utility paired with a dynamic shortcut launcher.*
@@ -37,7 +34,9 @@
 
 <div align="center">
 
-[![Maivina Cleaner Interface](Screenshot.jpg)](Screenshot.jpg)
+<img width="1001" height="429" alt="Screenshot 2026-07-04 230950" src="https://github.com/user-attachments/assets/d7df40e4-afb6-4a6b-bec4-a83ad387ffdc" />
+<div align="center">
+
 <br>
 *(Maivina Cleaner v1.0 Main Terminal)*
 
